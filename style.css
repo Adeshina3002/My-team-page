@@ -12,7 +12,7 @@
   background-color: #fff;
   box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
-  padding: 71px;
+  /* padding: 71px; */
   padding-left: 12px;
   padding-right: 85px;
 }
@@ -27,7 +27,7 @@
 
 .title h2 {
   color: #000;
-  font-size: 36px;
+  font-size: 33px;
   width: 100%;
 }
 
@@ -84,34 +84,30 @@
 
 #bill .person-description {
   position: absolute;
-  left: 100px;
+  left: 80px;
   top: 60px;
 }
 
 .image-content img {
-  width: 138.72px;
-}
-
-#saba{
-  margin-left: -10px;
+  width: 118.72px;
 }
 
 #saba .wrapper {
   position: absolute;
-  left: 240.52px;
+  left: 200.52px;
   top: 50px;
 }
 
 #saba .person-description {
   position: absolute;
-  left: 82px;
+  left: 62px;
   top: 60px;
 }
 
 #saba .person-name {
   position: absolute;
-  left: 240px;
-  top: 255px;
+  left: 202px;
+  top: 228px;
 }
 
 #shae {
@@ -120,25 +116,25 @@
 
 #shae .person-description {
   position: absolute;
-  left: 100px;
-  top: 347px;
+  left: 81px;
+  top: 319px;
 }
 
 #shae .person-name {
   position: absolute;
   left: 20px;
-  top: 490px;
+  top: 435px;
 }
 
 #skylah {
   position: absolute;
-  left: 240px;
-  top: 350px;
+  left: 200.52px;
+  top: 330px;
 }
 
 #skylah .person-description {
   position: absolute;
-  left: 82px;
+  left: 62px;
   top: 60px;
 }
 
@@ -146,30 +142,30 @@
   background-color: #fff;
   position: absolute;
   left: 18px;
-  top: 600px;
+  top: 520px;
 }
 
 #griff .person-description {
   position: absolute;
-  left: 82px;
+  left: 62px;
   top: 60px;
 }
 
 #griff .person-name {
   position: absolute;
   left: 18px;
-  top: 805px;
+  top: 725px;
 }
 
 #stan {
   position: absolute;
-  left: 240px;
-  top: 647.39px;
+  left: 200.52px;
+  top: 607.39px;
 }
 
 #stan .person-description {
   position: absolute;
-  left: 82px;
+  left: 62px;
   top: 60px;
 }
 
